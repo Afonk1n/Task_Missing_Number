@@ -1,0 +1,7 @@
+C:\Users\mafon\source\repos\Task Missing Number\bin\Debug\Task Missing Number.exe.config
+C:\Users\mafon\source\repos\Task Missing Number\bin\Debug\Task Missing Number.exe
+C:\Users\mafon\source\repos\Task Missing Number\bin\Debug\Task Missing Number.pdb
+C:\Users\mafon\source\repos\Task Missing Number\obj\Debug\Task Missing Number.csproj.AssemblyReference.cache
+C:\Users\mafon\source\repos\Task Missing Number\obj\Debug\Task Missing Number.csproj.CoreCompileInputs.cache
+C:\Users\mafon\source\repos\Task Missing Number\obj\Debug\Task Missing Number.exe
+C:\Users\mafon\source\repos\Task Missing Number\obj\Debug\Task Missing Number.pdb
